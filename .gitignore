@@ -1,0 +1,7 @@
+.Rhistory
+.idea/
+*.pyc
+data/
+info/
+submissions/
+scripts/*.log
